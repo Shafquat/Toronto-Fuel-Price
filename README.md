@@ -3,7 +3,7 @@
 
 ![](fuel_price.gif)
 
-Full code can be found in my [Jupyter Notebook]()
+Full code can be found in my [Jupyter Notebook](https://github.com/Shafquat/Toronto-Fuel-Price/blob/master/Gas-script.ipynb)
 
 ## Data Sources: 
 
