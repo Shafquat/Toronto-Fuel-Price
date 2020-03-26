@@ -1,7 +1,7 @@
 # Toronto Fuel Price from 1990 to 2020
 ## Animated Graph to show the price change in the last 30 years
 
-![](fuel_price.gif)
+![](fuel_prices.gif)
 
 Full code can be found in my [Jupyter Notebook](https://github.com/Shafquat/Toronto-Fuel-Price/blob/master/Gas-script.ipynb)
 
